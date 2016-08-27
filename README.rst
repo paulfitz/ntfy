@@ -121,7 +121,7 @@ name and then specify the backend with a backend key. For example:
         backend: pushover
         user_key: hunter2
 
-See the backends bellow for available backends and options.
+See the backends below for available backends and options.
 
 `Pushover <https://pushover.net>`_ - ``pushover``
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
